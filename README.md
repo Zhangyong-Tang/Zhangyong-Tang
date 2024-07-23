@@ -1,6 +1,8 @@
 Hi there 👋
 
-I'm now a PhD student from Jiangnan University, under the supervision of Prof. Xiaojun Wu!✨
+✨ I'm now a PhD student from Jiangnan University.
+
+My supervisior is Prof. Xiaojun Wu!
 
 🔭 My research interests involve multi-modal visual object tracking, and multi-modal information fusion.
 
